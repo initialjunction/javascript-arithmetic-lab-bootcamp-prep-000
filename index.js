@@ -32,3 +32,8 @@ function makeInt(a)
 {
   
 }
+
+function preserveDecimal(a)
+{
+  
+}
